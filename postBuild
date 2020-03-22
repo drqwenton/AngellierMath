@@ -1,2 +1,3 @@
 set -ex
-rm -rf *
+rm -rf *.ipynb
+
