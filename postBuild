@@ -1,4 +1,4 @@
 set -ex
 rm -rf *.ipynb
 mkdir NSITravail
-cd NSITravail
+cd ./NSITravail
