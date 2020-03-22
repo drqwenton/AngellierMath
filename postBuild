@@ -1,5 +1,2 @@
 set -ex
-
-invoke build --env-name=root --no-kernel
 rm -rf *
-jupyter lab clean
